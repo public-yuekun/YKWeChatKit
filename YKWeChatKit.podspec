@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
 
     s.author       = { "Yue Kun" => "git_yuekun@163.com" }
-    s.source       = { :git => "https://github.com/public-yuekun/WeChatKit.git", :tag => "1.0.0" }
+    s.source       = { :git => "https://github.com/public-yuekun/YKWeChatKit.git", :tag => "1.0.0" }
 
 
 
